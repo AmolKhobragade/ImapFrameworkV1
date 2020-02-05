@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="ImapDemo">
+
+<listeners>
+
+<listener class-name="com.Imap.utilities.Reporting">
+
+</listener>
+
+</listeners>
+<test name = "LoginPageTest">
+<parameter name ="browser" value="chrome"></parameter>
+
+<classes>
+<class name = "com.Imap.TestCases.TC_LoginTestCase_001"></class>
+</classes>
+
+</test>
+
+</suite>

@@ -1,0 +1,4 @@
+com\Imap\base\BaseClass.class
+com\Imap\config\ReadConfig.class
+com\Imap\utilities\Reporting.class
+com\Imap\pageObjects\LoginPage.class

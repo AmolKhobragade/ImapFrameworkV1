@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ImapDemo" duration-ms="16629" started-at="2020-02-05T16:15:17 IST" finished-at="2020-02-05T16:15:34 IST">
+    <groups>
+    </groups>
+    <test name="LoginPageTest" duration-ms="16629" started-at="2020-02-05T16:15:17 IST" finished-at="2020-02-05T16:15:34 IST">
+      <class name="com.Imap.TestCases.TC_LoginTestCase_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.Imap.TestCases.TC_LoginTestCase_001@402f32ff]" name="setup" is-config="true" duration-ms="14079" started-at="2020-02-05T16:15:18 IST" finished-at="2020-02-05T16:15:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.Imap.TestCases.TC_LoginTestCase_001@402f32ff]" name="logintest" duration-ms="1512" started-at="2020-02-05T16:15:32 IST" finished-at="2020-02-05T16:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Imap.TestCases.TC_LoginTestCase_001@402f32ff]" name="teardown" is-config="true" duration-ms="763" started-at="2020-02-05T16:15:33 IST" finished-at="2020-02-05T16:15:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Imap.TestCases.TC_LoginTestCase_001 -->
+    </test> <!-- LoginPageTest -->
+  </suite> <!-- ImapDemo -->
+</testng-results>
