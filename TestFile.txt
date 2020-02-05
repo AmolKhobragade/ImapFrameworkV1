@@ -1,0 +1,1 @@
+This is test file to clone to the local repository means from git hub to eclipse 
